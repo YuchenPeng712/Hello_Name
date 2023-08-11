@@ -11,6 +11,13 @@ void fun2()
 {
   cout << ("nothing happens") << endl;
 }
+
+void Function3()
+{
+  cout << "fjqan" << endl;
+}
+
+
 int main()
 {
   cout << "Some Modifications occur" << endl;
