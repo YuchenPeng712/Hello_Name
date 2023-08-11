@@ -17,6 +17,11 @@ void Function3()
   cout << "fjqan" << endl;
 }
 
+void Function5()
+{
+  cout << "q34gq34" << endl;
+}
+
 
 int main()
 {
