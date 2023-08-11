@@ -22,13 +22,16 @@ void Function5()
   cout << "q34gq34" << endl;
 }
 
-
 int main()
 {
   cout << "Some Modifications occur" << endl;
   return 0;
 }
 void fun4()
+{
+  cout << ("nothing happens") << endl;
+}
+void fun8()
 {
   cout << ("nothing happens") << endl;
 }
