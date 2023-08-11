@@ -1,13 +1,11 @@
 #include <iostream>
 using namespace std;
 
-// Function1 
-void Function1(){
-  cout<<"fjqan"<<endl;
+// Function1
+void Function1()
+{
+  cout << "fjqan" << endl;
 }
-int main(){
-  cout<<"Some Modifications occur"<<endl;
-
 
 void fun2()
 {
