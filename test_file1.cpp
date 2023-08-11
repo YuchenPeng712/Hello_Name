@@ -17,7 +17,10 @@ void Function3()
   cout << "fjqan" << endl;
 }
 
-
+void fun6()
+{
+  cout << "fjqan" << endl;
+}
 int main()
 {
   cout << "Some Modifications occur" << endl;
