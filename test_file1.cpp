@@ -23,3 +23,7 @@ int main()
   cout << "Some Modifications occur" << endl;
   return 0;
 }
+void fun4()
+{
+  cout << ("nothing happens") << endl;
+}
